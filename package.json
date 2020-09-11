@@ -4,7 +4,6 @@
     "description": "A demo application to demonstrate serverless functions with netlify",
     "main": ".eleventy.js",
     "dependencies": {
-        "netlify-cli": "^2.62.0",
         "node-fetch": "^2.6.0"
     },
     "devDependencies": {
